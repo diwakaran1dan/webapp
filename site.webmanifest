@@ -3,7 +3,7 @@
   "short_name": "Tamil",
   "version": "1.0.0",
   "homepage": "www.nixs.in",
-   "theme_color": "#ffffff",
+   "theme_color": "transparent",
   "background_color": "transparent",
   "icons": [
     {
