@@ -1,0 +1,47 @@
+{
+  "name": "Nixs News தமிழ்",
+  "short_name": "Tamil",
+  "version": "1.0.0",
+  "homepage": "www.nixs.in",
+   "theme_color": "transparent",
+  "background_color": "transparent",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-jg6HSKResZA/X8un8XuWe5I/AAAAAAAACwI/R5Qjzyk1o3AtQrR4scR7rqs-wOw7g4rvgCNcBGAsYHQ/s144/android-chrome-512x512.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "http://1.bp.blogspot.com/-jg6HSKResZA/X8un8XuWe5I/AAAAAAAACwI/R5Qjzyk1o3AtQrR4scR7rqs-wOw7g4rvgCNcBGAsYHQ/s192/android-chrome-512x512.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "http://1.bp.blogspot.com/-jg6HSKResZA/X8un8XuWe5I/AAAAAAAACwI/R5Qjzyk1o3AtQrR4scR7rqs-wOw7g4rvgCNcBGAsYHQ/s512/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "description": "Nixs News தமிழ்",
+   "ignore": [
+    "demos",
+    "imgs",
+    "README.md"
+  ],
+  "keywords": [
+    "iPhone",
+    "iPod",
+    "iPad",
+    "iOS6",
+    "iOS7",
+    "android",
+    "mobile"
+  ],
+  "license": "MIT",
+  "start_url": "/?utm_source=pwa&amp;utm_medium=nixs&amp;utm_campaign=notification",
+  "display": "standalone",
+   "display": "fullscreen",
+  "orientation": "any", 
+   "gcm_sender_id": "224412851390",
+  "gcm_user_visible_only": true
+}
