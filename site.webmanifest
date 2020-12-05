@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "homepage": "www.nixs.in",
    "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "background_color": "transparent",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-jg6HSKResZA/X8un8XuWe5I/AAAAAAAACwI/R5Qjzyk1o3AtQrR4scR7rqs-wOw7g4rvgCNcBGAsYHQ/s144/android-chrome-512x512.png",
