@@ -1,0 +1,69 @@
+Id,Label
+BIOLOGICS,Biologics
+FOOD,Food
+DRUGS_MED_CHEM,Drugs Med Chem
+MEDICAL_DEVICES,Medical Devices
+CATALYSIS_SEPRATION,Catalysis & Sepration
+COSM_MED_CHEM,Cosm & Med Chem
+COPYING_PRINTS,Copying & Prints
+LAB_EQUIP,Lab equip
+PHOTOLITHOGRAPHY,Photolithography
+CHEM_POLYM,Chem & Polym
+MED_INSTR,Med Instr
+TEXTILES,Textiles
+COMMUNICATION,Communication
+DOMESTIC_APPLIANCES,Domestic appliances
+OPTICS,Optics
+TV_IMAGING_COMM,"TV, Imaging & Comm"
+COMBUSION_ENGINES,Combusion Engines
+HEATING_COOLING,Heating & Cooling
+ELECTRIC_POWER,Electric Power
+CONSTRUCTION,Construction
+CARBON_NANOTUBES,Carbon Nanotubes
+SEMICONDUCTOR,Semiconductor
+COMPUTING,Computing
+RECORDING,Recording
+RADIO_COMM,"Radio, Comm"
+TEL_COMM,Tel Comm
+INFO_TRANSMISSION,Info Transmission
+DATA_COMMERCE,Data Commerce
+MEDICAL_TOOLS,Medical Tools
+LIGHTING,Lighting
+METALS,Metals
+FURNACES,Furnaces
+TURBINES_ENGINES,Turbines & Engines
+VEHICLES,Vehicles
+MEASUREMENTS,Measurements
+ICT,ICT
+AERONAUTICAL,Aeronautical
+GYPSUM,Gypsum
+LIDAR,LIDAR
+RADAR,Radar
+POSITIONING_SYSTEM,Positioning System
+AI,AI
+VR,VR
+AUGMENTED_REALITY,Augmented reality
+MACHINE_LEARNING,Machine Learning
+CONVERTERS,Converters
+5G,5G
+SENSOR,Sensor
+LASER,Laser
+LED,LED
+QLED,QLED
+CAMERA,Camera
+BLOOD_PRESSURE_SENSOR,Blood Pressure Sensor
+TEMPERATURE_SENSOR,Temperature Sensor
+GYROSCOPE,Gyroscope
+MEMS_SENSORS,mems sensors
+BLUETOOTH,Bluetooth
+WIFI,Wifi
+SOFTWARE_ARCHITECTURE,Software Architecture
+NETWORK,Network
+SHARED_NETWORK,Shared Network
+CLOUD_STORAGE,Cloud storage
+CHEMICAL_VAPOR_DEPOSITION,Chemical vapor deposition
+PHYSICAL_VAPOR_DEPOSITION,Physical vapor deposition
+TRANSMISSION_CONTROL_PROTOCOL,Transmission Control Protocol
+TRANSCONDUCTOR,Transconductor
+HYBRID_FET,Hybrid FET
+ATOMIC_LAYER_DEPOSITION,Atomic Layer Deposition
