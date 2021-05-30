@@ -1,10 +1,10 @@
 {
   "items": [{
     "id": 1,
-    "img": "/static/samples/img/product1_640x426.jpg",
-    "name": "Apple",
+    "img": "https://1.bp.blogspot.com/-7nS6dkMgAFU/X1T4R2nGUyI/AAAAAAAACes/0_MoowparSEhx8Ws-f-uS7j_e1QdxxyyACNcBGAsYHQ/s640/12.1.png",
+    "name": "Diwakarana",
     "price": "1.99",
-    "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;",
+    "stars": "&#9733;&#9733;&#9733;&#9733;&#9733;&#9733;",
     "attribution": "visualhunt",
     "url": "#",
     "color": "green"
